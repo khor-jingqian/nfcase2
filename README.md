@@ -1,8 +1,8 @@
 # To set up:
 
-<ul>
-<ol>Clone this repo to your computer.</ol>
-<ol>Change the directory to nfcase2 in your command line.</ol>
-<ol>run `npm install` to install all dependencies.</ol>
-<ol>run `npm start` to open the React application.</ol>
-</ul>
+<ol>
+<li>Clone this repo to your computer.</li>
+<li>Change the directory to nfcase2 in your command line.</li>
+<li>run `npm install` to install all dependencies.</li>
+<li>run `npm start` to open the React application.</li>
+</ol>
